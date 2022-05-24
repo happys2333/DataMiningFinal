@@ -39,25 +39,25 @@ pycode/LSTM.py
 
 Transformer在模型拟合上具有极大的优势，在如此小的数据量的情况下拟合效果仍然比较优秀
 
-![img(6)](src\img(6).png)
+![img(6)](src/img(6).png)
 
 相比于老的机器学习模型，我们可以看出Loss是明显占据优势的
 
-![img(7)](src\img(7).png)
+![img(7)](src/img(7).png)
 
 对比其他模型如LSTM模型，则仍然展现了自己的优势(对比数据均为深圳数据)
 
-![img(5)](src\img(5).png)
+![img(5)](src/img(5).png)
 
 在绘图可视化上，我们可以看出拟合度的情况
 
-![img (4)](src\img(4).png)
+![img (4)](src/img(4).png)
 
-![img(1)](src\img(1).png)
+![img(1)](src/img(1).png)
 
-![img(2)](src\img(2).png)
+![img(2)](src/img(2).png)
 
-![img(3)](src\img(3).png)
+![img(3)](src/img(3).png)
 
 #### 结论
 
