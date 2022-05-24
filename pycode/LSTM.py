@@ -43,10 +43,10 @@ def read_csv_to_list():
     global shenzhen
     global changchun
     global shanghai
-    beijing = csv_to_tensor('../input/covid-19-datamining/beijing_data.csv')
-    shenzhen = csv_to_tensor('../input/covid-19-datamining/shenzhen_data.csv')
-    changchun = csv_to_tensor('../input/covid-19-datamining/changchun_data.csv')
-    shanghai = csv_to_tensor('../input/covid-19-datamining/shanghai_data.csv')
+    beijing = csv_to_tensor('./input/beijing_data.csv')
+    shenzhen = csv_to_tensor('./input/shenzhen_data.csv')
+    changchun = csv_to_tensor('./input/changchun_data.csv')
+    shanghai = csv_to_tensor('./input/shanghai_data.csv')
 
 
 read_csv_to_list()
